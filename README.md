@@ -1,9 +1,9 @@
-####Olá eu sou o Jonas 👨🏽‍💻
+#### Olá eu sou o Jonas 👨🏽‍💻
 
 Desenvolvedor web apaixonado por solucionar problemas, independete da linguagem, tecnologia ou método.
 
 
-#####Tecnologias do dia a dia:
+##### Tecnologias do dia a dia:
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
