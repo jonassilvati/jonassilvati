@@ -2,10 +2,9 @@
 
 Desenvolvedor web apaixonado por solucionar problemas, independete da linguagem, tecnologia ou método.
 
-Links de alguns trabalhos:
+Últimos projetos:
 https://oficialgestaodebanca.com
-https://www.pizzaquadrada.com.br/
-http://fetram.com.br/
+https://www.pizzaquadrada.com.br
 
 ##### Tecnologias que estou habituado:
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
