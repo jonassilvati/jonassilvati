@@ -3,8 +3,8 @@
 Desenvolvedor web apaixonado por solucionar problemas, independete da linguagem, tecnologia ou método.
 
 Últimos projetos:
-*[EverGrenn - Gestão de banca](https://oficialgestaodebanca.com)
-*[Site Pizza Quadrada](https://www.pizzaquadrada.com.br)
+* [EverGrenn - Gestão de banca](https://oficialgestaodebanca.com)
+* [Site Pizza Quadrada](https://www.pizzaquadrada.com.br)
 
 ##### Tecnologias que estou habituado:
 ![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
