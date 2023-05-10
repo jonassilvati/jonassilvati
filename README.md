@@ -6,6 +6,8 @@ Desenvolvedor web apaixonado por solucionar problemas, independete da linguagem,
 * [EverGrenn - Gestão de banca](https://oficialgestaodebanca.com)
 * [Site Pizza Quadrada](https://www.pizzaquadrada.com.br)
 
+[Meu Likedin](https://www.linkedin.com/in/jonas-da-costa-silva-096676121/)
+
 ##### Tecnologias que estou habituado:
 ![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
